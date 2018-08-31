@@ -12,7 +12,7 @@ indeed, edit source code. Since it is possible to control most things that a
 computer can do with text, Emacs can also be used to interface and control
 anything that a computer can do.
 
-Emacs has a long history having been in continous development since 1985. In
+Emacs has a long history having been in continuous development since 1985. In
 this sense, it is a very old piece of software. One significant advantage of
 this is that the core of Emacs is fairly stable; this means that knowledge
 learned today is likely to remain useful far into the future. Emacs is also highly
@@ -253,7 +253,7 @@ those if you so wish.
 
 Of these, Ctrl is normally abbreviated to "C" while Alt is abbreviated to,
 confusingly, "M". The reason for this is historical, as keyboards used to have
-a key labelled "Meta". Shift is refered to using capital letters. Esc is
+a key labelled "Meta". Shift is referred to using capital letters. Esc is
 rarely abbreviated, but is, instead a different way of accessing Alt.
 
 So, "C-x f" means "press the Ctrl key, and simultaneously the x, then release
@@ -399,7 +399,7 @@ Emacs. We will consider the two most common of these keypresses next.
 In many applications, the keypress Ctrl-z runs the undo system, which is,
 unfortunately, not true with Emacs. In fact, it minimizes Emacs; this can be
 rather disconcerting the first time it happens, when Emacs suddenly
-dissappears from the screen.
+disappears from the screen.
 
 Emacs actually has a quite powerful undo system. To find out how to
 access it, try C-h f undo which displays the help screen which prints
@@ -479,7 +479,7 @@ keypresses. In addition, in some cases, these standard keypresses are,
 not that standard: for example, in command line terminal, Ctrl-z normally
 causes not an undo operation, but suspends the current process. If you are
 running Emacs in a terminal, in fact, this is what it does to Emacs also; from
-the perspective of the user, in a grapical environment, minimizing Emacs
+the perspective of the user, in a graphical environment, minimizing Emacs
 achieves about the same thing.
 
 Of course, Emacs could be updated to change this behaviour, but many users are
